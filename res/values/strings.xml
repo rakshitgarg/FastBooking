@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">FastBooking</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_search" translatable="false">search</string>
+    <string name="app_label" translatable="false">HotelSquare</string>
+    <string name="search_hint" translatable="false">Search</string>
+    <string name="hotel_page" translatable="false">ThisText</string>
+    <string name="details" translatable="false">Details</string>
+    <string name="map" translatable="false">Map</string>
+    <string name="call" translatable="false">Call</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="search" translatable="false">Enter Name or City or state</string>
+    <string name="no_internet" translatable="false">Opps! No Internet Connection</string>
+    <string name="text" translatable="false">Find all Hotels and Travel Service Providers of india currently approved under Ministry of Tourism. 306 Hotels and 984 Travel service providers registered data as on as on 12.03.2013</string>
+
+</resources>
